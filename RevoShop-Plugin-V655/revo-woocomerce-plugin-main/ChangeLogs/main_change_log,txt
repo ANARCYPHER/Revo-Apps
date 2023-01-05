@@ -1,0 +1,26 @@
+=== START - REVOSHOP WOOCOMMERCE PLUGIN - CHANGE LOG ===
+
+V 1.2.0 : .../ChangeLogs/V1.2.0.txt
+
+V 1.3.0 : .../ChangeLogs/V1.3.0.txt
+
+V 4.2.0
+- fix default data sosmed_link
+- add currency symbol position
+
+V 4.3.0
+- add custom API list product
+- add custom API filter product by attribute category
+- integration with 'Woo Discount Rules' plugin By Flycart
+-> discount from : regular & sale price
+-> discount type : bulk discount
+-> discount type on every discount rules : percentage discount
+-> product : all products
+-> count quantities by : filters set above, individual products & all variant in each product together
+- poster link to categories 
+- banner link to categories 
+
+V 5.0.0
+- chat integration between revoshop x revopos
+
+=== END - REVOSHOP WOOCOMMERCE PLUGIN - CHANGE LOG ===

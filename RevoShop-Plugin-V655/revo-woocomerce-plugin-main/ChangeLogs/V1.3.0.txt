@@ -1,0 +1,3 @@
+Update V1.3.0 : 
+-  API Search Produk by barcode   
+-  API General Setting Check if plugin barcode has installed

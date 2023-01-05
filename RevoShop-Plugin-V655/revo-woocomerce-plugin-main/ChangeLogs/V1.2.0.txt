@@ -1,0 +1,6 @@
+Update v1.2.0 : 
+- API Send Confirmation Code Change Password
+- API Get User Point
+- API Checkout Using Point
+- API Order Detail Using Point
+- Fix Bug Order Detail, users can see other people's orders using order_id
